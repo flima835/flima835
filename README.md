@@ -1,29 +1,9 @@
 ## Oiii eu sou a Felipe Lima, criador de conteúdo para cultura SRE/DevOps!
 
-import requests
-
-def get_repository_stats(owner, repo):
-    url = f"https://api.github.com/repos/{owner}/{repo}/stats/contributors"
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        stats = response.json()
-        return stats
-    else:
-        print("Error:", response.status_code)
-        return None
-
-owner = "username"
-repo = "repository_name"
-stats = get_repository_stats(owner, repo)
-
-if stats:
-    print("Contributors statistics:")
-    for contributor in stats:
-        print(f"Contributor: {contributor['author']['login']}")
-        print(f"Total commits: {contributor['total']}")
-else:
-    print("Failed to fetch repository statistics.")
+<div>
+<a href="[https://github](https://github.com/flima835)">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=felipelima&show_icon=true&theme=dracula&include_all_commits+true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top=langs/?username=felipelima&layout=compact&langs_count=16&theme=dracula"/>
 
 
 <div style="display: inline_block"><br>
