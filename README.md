@@ -1,7 +1,30 @@
 ## Oiii eu sou a Felipe Lima, criador de conteúdo para cultura SRE/DevOps!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+import requests
+
+def get_repository_stats(owner, repo):
+    url = f"https://api.github.com/repos/{owner}/{repo}/stats/contributors"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        stats = response.json()
+        return stats
+    else:
+        print("Error:", response.status_code)
+        return None
+
+owner = "username"
+repo = "repository_name"
+stats = get_repository_stats(owner, repo)
+
+if stats:
+    print("Contributors statistics:")
+    for contributor in stats:
+        print(f"Contributor: {contributor['author']['login']}")
+        print(f"Total commits: {contributor['total']}")
+else:
+    print("Failed to fetch repository statistics.")
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
