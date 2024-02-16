@@ -1,8 +1,4 @@
-name: Generate Datas
-
-permissions:
-  contents: read
-  pages: write   
+name: Generate Datas  
 
 on:
   schedule: # execute every 12 hours
