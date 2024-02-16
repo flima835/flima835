@@ -1,7 +1,7 @@
 ## Oiii eu sou o Felipe Lima, profissional e estudante da cultura SRE/DevOps!
 
 <div>
-<a href="[https://github](https://github.com/flima835)">
+<a href="https://github.com/flima835">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=flima835&show_icon=true&theme=dracula&include_all_commits+true&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flima835&layout=compact&langs_count=16&theme=dracula"/>
 </div>
