@@ -1,19 +1,19 @@
-# Olá, eu sou o Felipe Lima 👋
+# Olá, eu sou o Felipe Lima
 
 ### SRE & DevOps Engineer
 Focado em construir sistemas resilientes, escaláveis e automatizados. Acredito na cultura de observabilidade e na redução do toil para maximizar a entrega de valor.
 
 ---
 
-### 🛠️ No que estou trabalhando:
-* ☁️ Implementando infraestrutura como código (IaC) com **Terraform & Ansible**.
-* ☸️ Orquestração de containers com **Kubernetes & Docker**.
-* 📊 Estabelecendo estratégias de monitoramento e observabilidade (SLIs/SLOs).
-* 🚀 Otimizando pipelines de **CI/CD** para deploys seguros e rápidos.
+###  No que estou trabalhando:
+*  Implementando infraestrutura como código (IaC) com **Terraform & Ansible**.
+*  Orquestração de containers com **Kubernetes & Docker**.
+*  Estabelecendo estratégias de monitoramento e observabilidade (SLIs/SLOs).
+*  Otimizando pipelines de **CI/CD** para deploys seguros e rápidos.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="AWS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
