@@ -30,10 +30,13 @@ Focado em construir sistemas resilientes, escaláveis e automatizados. Acredito 
 ---
 
 ### 📊 Estatísticas e Atividades
-<p align="left">
-  <img width="57.5%" src="https://github-readme-stats.vercel.app/api?username=flima835&show_icon=true&theme=dracula&count_private=true"/>
-  <img width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flima835&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+
+<div style="display:flex; gap:10px;">
+  <img width=56.1%" src="https://github-readme-stats-ruby-eight.vercel.app/api?username=flima835&show_icons=true&theme=dracula"/>
+  <img width="43%" src="https://github-readme-stats-ruby-eight.vercel.app/api/top-langs/?username=flima835&layout=compact&theme=dracula"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flima835&theme=dracula)
+</div>
 
 ### 📫 Vamos conversar?
 <a href="https://www.linkedin.com/in/link-felipe-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
