@@ -26,7 +26,12 @@ Focado em construir sistemas resilientes, escaláveis e automatizados. Acredito 
   <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ElasticSearch" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
   <img align="center" alt="Datadog" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg">
+  <img align="center" alt="Grafana" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Zabbix" height="15" src="https://static.cdnlogo.com/logos/z/95/zabbix.svg">
+  
 </div>
+
+
 
 ---
 
