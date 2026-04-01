@@ -33,7 +33,7 @@ Focado em construir sistemas resilientes, escaláveis e automatizados. Acredito 
 
 <div style="display:flex; gap:10px;">
   <img width=56.1%" src="https://github-readme-stats-ruby-eight.vercel.app/api?username=flima835&show_icons=true&theme=dracula"/>
-  <img width="43%" src="https://github-readme-stats-ruby-eight.vercel.app/api/top-langs/?username=flima835&layout=compact&theme=dracula"/>
+  <img width="43.2%" src="https://github-readme-stats-ruby-eight.vercel.app/api/top-langs/?username=flima835&layout=compact&theme=dracula"/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flima835&theme=dracula)
 </div>
