@@ -25,6 +25,7 @@ Focado em construir sistemas resilientes, escaláveis e automatizados. Acredito 
   <img align="center" alt="Jenkins" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ElasticSearch" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
+  <img align="center" alt="Datadog" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg">
 </div>
 
 ---
